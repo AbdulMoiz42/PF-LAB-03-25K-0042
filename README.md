@@ -9,6 +9,10 @@ I am at beginner in C language and in python.
 - Degree: BSAI
 - Hobby: Learning and exloring different things
 <br/>
+
 1. Python
-2. C language
-3. C++
+2.  C language
+3.  C++
+
+
+
