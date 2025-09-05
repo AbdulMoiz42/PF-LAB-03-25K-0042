@@ -5,3 +5,8 @@ Introductory file
 My name is Abdul Moiz. I am a student of BSAI in FAST University. My aim is to becoming Machine learning Engineer So, My interest in programming is high.
 I am at beginner in C language and in python.
 <br/>
+Name: Abdul Moiz
+<br/>
+Degree: BSAI
+<br/>
+hobby: Learning different things
